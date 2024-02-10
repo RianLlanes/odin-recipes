@@ -1,7 +1,15 @@
 h1 {
     background-color: darkcyan;
     color: white;
+    text-align: center;recipes/Sinigang.html
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    background-color: darkcyan;
+    color: white;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
@@ -10,3 +18,14 @@ img {
     margin-right: auto;
 
 }
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: justify;
+}
+
+.home {
+    text-align: center;
+}
+
